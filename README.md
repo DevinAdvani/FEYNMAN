@@ -6,7 +6,7 @@ Revision is hard. I tried anki a while ago. I felt that it prioritises memorisin
 
 # Features
 
-scan or import photos of notes or copy and paste. read the notes. create a few prompts to help with the next step. recreate notes without looking at them at all. edit notes. grade your understanding. repeat.
+scan or import photos of notes or copy and paste. read the notes. create a few prompts to help with the next step. recreate notes without looking at them at all. edit notes so that a competent five year old with no prior understanding of the subject, could understand. grade your understanding. repeat.
 
 # Intended Result
 
