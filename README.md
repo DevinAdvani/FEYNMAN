@@ -4,7 +4,7 @@
 
 Revision is hard. I tried anki a while ago. I felt that it prioritises memorising over understanding. 
 
-#Features
+# Features
 
 -scan or import photos of notes or copy and paste
 -read the notes
@@ -14,6 +14,6 @@ Revision is hard. I tried anki a while ago. I felt that it prioritises memorisin
 -grade your understanding
 -repeat
 
-#Intended Result
+# Intended Result
 
 An app that one can upload notes to in seconds and revise in a manner that creates understanding over pure memory. 
