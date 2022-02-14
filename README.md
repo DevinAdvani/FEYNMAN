@@ -1,5 +1,7 @@
 # FEYNMAN
 
+![FEYNMAN_LOGO](https://user-images.githubusercontent.com/80278580/153899291-7b79a7f7-38ee-4932-b9c4-ced1c37109a3.png)
+
 Revision is hard. I tried anki a while ago. I felt that it prioritises memorising over understanding. 
 
 #Features
